@@ -1,0 +1,21 @@
+C:\Users\RaiSi\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.AssemblyReference.cache
+C:\Users\RaiSi\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.Properties.Resources.resources
+C:\Users\RaiSi\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.GenerateResource.cache
+C:\Users\RaiSi\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.CoreCompileInputs.cache
+C:\Users\RaiSi\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe.config
+C:\Users\RaiSi\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe
+C:\Users\RaiSi\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.pdb
+C:\Users\RaiSi\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.exe
+C:\Users\RaiSi\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.pdb
+C:\Users\RaiSi\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.PedraPapelTesoura.resources
+E:\ \TUDO\ETEC\PA-DS\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe.config
+E:\ \TUDO\ETEC\PA-DS\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe
+E:\ \TUDO\ETEC\PA-DS\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.pdb
+E:\ \TUDO\ETEC\PA-DS\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.AssemblyReference.cache
+E:\ \TUDO\ETEC\PA-DS\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.SuggestedBindingRedirects.cache
+E:\ \TUDO\ETEC\PA-DS\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.PedraPapelTesoura.resources
+E:\ \TUDO\ETEC\PA-DS\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.Properties.Resources.resources
+E:\ \TUDO\ETEC\PA-DS\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.GenerateResource.cache
+E:\ \TUDO\ETEC\PA-DS\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.CoreCompileInputs.cache
+E:\ \TUDO\ETEC\PA-DS\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.exe
+E:\ \TUDO\ETEC\PA-DS\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.pdb
